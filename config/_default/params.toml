@@ -125,13 +125,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "AIzaSyAVBJdEeatiO6mO_IWicB9MWSNWEJ1KVXY"
-  # authDomain = "kaledlegend5.firebaseapp.com"
-  # projectId = "kaledlegend5"
-  # storageBucket = "kaledlegend5.firebasestorage.app"
-  # messagingSenderId = "416313357771"
-  # appId = "1:416313357771:web:eddfb680f1734e15d8f24e"
-  # measurementId = "G-W3FGM9EG3S"
+   apiKey = "AIzaSyAVBJdEeatiO6mO_IWicB9MWSNWEJ1KVXY"
+   authDomain = "kaledlegend5.firebaseapp.com"
+   projectId = "kaledlegend5"
+   storageBucket = "kaledlegend5.firebasestorage.app"
+   messagingSenderId = "416313357771"
+   appId = "1:416313357771:web:eddfb680f1734e15d8f24e"
+   measurementId = "G-W3FGM9EG3S"
 
 [fathomAnalytics]
   # site = "ABC12345"
