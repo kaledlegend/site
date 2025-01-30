@@ -74,13 +74,14 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
+  showComments = true
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-   sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+   sharingLinks = [ "linkedin1", "twitter", "bluesky1", "mastodon1", "reddit1", "pinterest1", "facebook1", "email1", "whatsapp", "telegram1"]
   showZenMode = true
 
 [list]

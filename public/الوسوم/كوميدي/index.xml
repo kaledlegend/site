@@ -6,8 +6,6 @@
     <description>Recent content in كوميدي on KHALID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
-    <managingEditor>youremail@example.com (kaledlegend)</managingEditor>
-    <webMaster>youremail@example.com (kaledlegend)</webMaster>
     <copyright>© 2025</copyright>
     <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/%D8%A7%D9%84%D9%88%D8%B3%D9%88%D9%85/%D9%83%D9%88%D9%85%D9%8A%D8%AF%D9%8A/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>drama</title>
       <link>//localhost:1313/posts/drama/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (kaledlegend)</author>
+      
       <guid>//localhost:1313/posts/drama/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/drama/feature.jpg" />
