@@ -11,12 +11,12 @@
     
     <item>
       <title>تعريف</title>
-      <link>//localhost:1313/posts/welcome/</link>
+      <link>//localhost:1313/posts/%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/welcome/</guid>
+      <guid>//localhost:1313/posts/%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/welcome/feature.jpg" />
+      
     </item>
     
   </channel>
