@@ -3,7 +3,7 @@ title: "شهر الخير"
 date: 2025-02-04
 الوسوم:  ["فوائد"]
 التصنيفات: ["مقال"]
-draft: false
+draft: true
 descripion: "فوائد الصيام"
 series_order: 2
 ---
